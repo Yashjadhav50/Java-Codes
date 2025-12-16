@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class LCM{
     public static int findGCD(int a, int b){
+        
         while(b != 0){
             int temp = b;
             b = a % b;
