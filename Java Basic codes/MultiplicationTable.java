@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class MultiplicationTable{
     public static void main(String[] args){
+        
         Scanner obj = new Scanner(System.in);
         System.out.print("Enter a Positive number: ");
         int x = obj.nextInt();
