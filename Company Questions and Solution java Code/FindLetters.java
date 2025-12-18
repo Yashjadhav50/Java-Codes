@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class FindLetters{
     public static void main(String[] args){
+        
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter name and surname: ");
         String s = sc.nextLine();
