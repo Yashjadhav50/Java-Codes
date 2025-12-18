@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class CandiesTCS{
     public static void main(String[] args){
+        
         Scanner sc = new Scanner(System.in);
         int n = 10;                                                 // Maximum no of candies in jar
         System.out.println("Total number of Candies in jar: " + n);
