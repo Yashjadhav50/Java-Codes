@@ -2,6 +2,7 @@ import java.util.*;
 import java.lang.String;
 public class ReversePolishNotation{
     public static int evaluate(String[] input){
+        
         Stack<Integer> st = new Stack<>();
         for(String ip : input){
             if("+-*/".contains(ip)){
