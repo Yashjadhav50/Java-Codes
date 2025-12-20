@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class PrimeNumberRange{
     public static void main(String[] args){
+        
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a Range of Numbers: ");
         int x = sc.nextInt();
