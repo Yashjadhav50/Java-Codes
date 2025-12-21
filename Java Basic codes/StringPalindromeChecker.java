@@ -12,7 +12,7 @@ public class StringPalindromeChecker{
         }
 
         if(str.equalsIgnoreCase(reversed)){
-            
+        
             System.out.print(str + " is a Palindrome.");
         }else{
             System.out.print(str + " is not a Plaindrome.");
