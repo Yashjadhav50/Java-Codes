@@ -13,7 +13,6 @@ public class ReverseNumber{
             reversed = reversed * 10 + digit;
             temp = temp / 10;
         }
-
         if (s < 0){
             reversed = -reversed;
         }
