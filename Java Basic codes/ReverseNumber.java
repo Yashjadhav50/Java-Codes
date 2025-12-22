@@ -14,7 +14,7 @@ public class ReverseNumber{
             temp = temp / 10;
         }
         if (s < 0){
-        
+    
             reversed = -reversed;
         }
         System.out.print("Reversed number is: " + reversed);
