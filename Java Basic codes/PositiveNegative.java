@@ -7,7 +7,6 @@ public class PositiveNegative{
     int n = sc.nextInt();
 
     if(n<0){
-
         System.out.println("Number " + n + " is negative.");
     }else if(n>0){
         System.out.println("Number " + n + " is positive.");
