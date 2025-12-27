@@ -6,7 +6,7 @@ public class Factorial{
         System.out.print("Enter positive Number: ");
         int f = sc.nextInt();
         
-    
+
         if(f < 0){
             System.out.println("Factorial is not Defined.");
         }else{
