@@ -5,7 +5,7 @@ public class Factorial{
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter positive Number: ");
         int f = sc.nextInt();
-    
+update
         if(f < 0){
             System.out.println("Factorial is not Defined.");
         }else{
