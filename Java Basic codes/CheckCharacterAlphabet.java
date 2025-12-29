@@ -1,7 +1,6 @@
 import java.util.Scanner;
 public class CheckCharacterAlphabet{
     public static void main(String[] args){
-     
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a Character: ");
         String a = sc.next();
@@ -17,6 +16,6 @@ public class CheckCharacterAlphabet{
         }else{
             System.out.println( a + " is not a Alphabet.");
         }
-        sc.close();
+        sc.close()
     }
 }
