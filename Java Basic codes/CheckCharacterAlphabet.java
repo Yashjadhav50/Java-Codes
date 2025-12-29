@@ -16,6 +16,6 @@ public class CheckCharacterAlphabet{
         }else{
             System.out.println( a + " is not a Alphabet.");
         }
-        sc.close()
+        sc.close();
     }
 }
